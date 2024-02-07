@@ -10,9 +10,9 @@ Dimitri Di Cristofaro ([LinkedIn](https://www.linkedin.com/in/dimitridicristofar
 With special thanks to our generous sponsors on the day:
 
 <p align="center" width="100%">
-    <a href="https://www.exabeam.com"><img width="70%" src="2023/images/exabeam.png" alt="exabeam"></a>
+    <a href="https://www.exabeam.com"><img width="70%" src="images/exabeam.png" alt="exabeam"></a>
 </p>
 <br>
 <p align="center" width="100%">
-    <a href="https://www.secforce.com"><img width="70%" src="2023/images/secforce.png" alt="SECFORCE"></a>
+    <a href="https://www.secforce.com"><img width="70%" src="images/secforce.png" alt="SECFORCE"></a>
 </p>
