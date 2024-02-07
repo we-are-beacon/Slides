@@ -16,3 +16,7 @@ With special thanks to our generous sponsors on the day:
 <p align="center" width="100%">
     <a href="https://www.secforce.com"><img width="70%" src="images/secforce.png" alt="SECFORCE"></a>
 </p>
+<br>
+<p align="center" width="100%">
+    <a href="https://www.unhacked.biz/"><img width="70%" src="images/unhacked.png" alt="unhacked"></a>
+</p>
