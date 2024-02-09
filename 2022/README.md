@@ -1,4 +1,4 @@
-# 23/11/2023 @ No90 Hackney Wick
+# 24/08/2022 @ Spiral Galleries
 
 Rad Kawar ([Twitter](https://twitter.com/rad9800)) - [Malware Madness](slides/MALWARE_MADNESS.pdf)
 
