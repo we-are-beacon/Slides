@@ -1,7 +1,7 @@
 # 23/11/2023 @ No90 Hackney Wick
 
-Borja Cañavate ([LinkedIn](https://www.linkedin.com/in/borja-c-563886205/)) - [Understanding (y)our evasions](2023/Beacon23_-_Borja_-_Understanding_(y)our_evasions.pdf) \
-Dimitri Di Cristofaro ([LinkedIn](https://www.linkedin.com/in/dimitridicristofaro/)/[Twitter](https://twitter.com/d_glenx)) - [EDR Psychedelia](2023/Beacon23_-_Dimitri_Di_Cristofaro_-_EDR_Psychedelia_-_Pushing_Boundaries_of_Perception_for_Reshaping_EDRs_Truths.pdf)
+Borja Cañavate ([LinkedIn](https://www.linkedin.com/in/borja-c-563886205/)) - [Understanding (y)our evasions](slides/Beacon23_-_Borja_-_Understanding_(y)our_evasions.pdf) \
+Dimitri Di Cristofaro ([LinkedIn](https://www.linkedin.com/in/dimitridicristofaro/)/[Twitter](https://twitter.com/d_glenx)) - [EDR Psychedelia](slides/Beacon23_-_Dimitri_Di_Cristofaro_-_EDR_Psychedelia_-_Pushing_Boundaries_of_Perception_for_Reshaping_EDRs_Truths.pdf)
 
 With special thanks to our generous sponsors on the day:
 
